@@ -87,14 +87,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZoyaNaveed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats"/>
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZoyaNaveed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=ZoyaNaveed&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
+
+<img src="https://komarev.com/ghpvc/?username=ZoyaNaveed&style=for-the-badge&color=6c5ce7&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 

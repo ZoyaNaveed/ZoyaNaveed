@@ -12,9 +12,9 @@
 
 ### 👋 About Me
 
-- 🤖 **AI Engineer at CureMD**, building agent-based backends, LLM chatbots and knowledge graph pipelines for healthcare
+- 🤖 **AI Engineer**, building agent-based backends, LLM chatbots and knowledge graph pipelines for healthcare
 - 🎓 Computer Science graduate from **UET Lahore** (2021 – 2025)
-- 🏆 **Cohort Topper**, CureMD AI Bootcamp 2025
+- 🏆 **Cohort Topper**, AI Bootcamp 2025
 - 🧠 Working with **LangChain, RAG, MCP, Neo4j and FastAPI**
 - 🎤 Former President of UETMUN Society and Lead of the Creative Team at Google Developers Student Club
 - 📫 Reach me at **zoyanaveed53@gmail.com**
@@ -25,11 +25,11 @@
 
 | Role | Company | Period |
 |---|---|---|
-| **AI Engineer** | CureMD | Jul 2025 – Present |
+| **AI Engineer** | Healthcare AI | Jul 2025 – Present |
 | **Full Stack Developer Intern** | TechHype | Jul 2024 – Sep 2024 |
 | **Project Intern** | LUMS (Water Informatics & Technology Center) | Jun 2024 – Jul 2024 |
 
-**Highlights at CureMD**
+**Highlights**
 - Built an automated **SQL-to-Knowledge-Graph** ingestion pipeline that cut daily incremental ingestion time by **30%**
 - Re-architected monolithic Neo4j ingestion into modular, goal-driven **agents**, with about **60%** less manual effort
 - Led design of an **LLM-powered chatbot** for patient registration and check-in (intent classification and goal generation)

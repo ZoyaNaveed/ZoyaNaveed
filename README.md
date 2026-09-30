@@ -91,10 +91,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZoyaNaveed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoyaNaveed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZoyaNaveed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZoyaNaveed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZoyaNaveed&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=ZoyaNaveed&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
 
 </div>
 

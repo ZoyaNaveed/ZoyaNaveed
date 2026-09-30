@@ -89,14 +89,13 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ZoyaNaveed&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" width="495" height="195"/>
+</p>
 
-
-<img src="https://streak-stats.demolab.com/?user=ZoyaNaveed&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
-
-<img src="https://komarev.com/ghpvc/?username=ZoyaNaveed&style=for-the-badge&color=6c5ce7&label=PROFILE+VIEWS" alt="profile views"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZoyaNaveed&style=for-the-badge&color=6c5ce7&label=PROFILE+VIEWS" alt="profile views" height="28"/>
+</p>
 
 ---
 
